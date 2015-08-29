@@ -1,0 +1,7 @@
+{
+  "currency": "USD",
+  "funds": [
+     { "symbol": "FOUSA06OMI", "name": "Horizon Crd Oil", "amount": 500},
+     { "symbol": "F0CAN05LUB", "name": "RBC Conservative"}
+  ]
+}
